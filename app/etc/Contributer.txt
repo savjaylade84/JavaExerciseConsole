@@ -1,0 +1,16 @@
+#############################################
+
+
+This is the log file for Contributer
+of My Project
+
+the format is :
+
+Name:
+Issue Dates:
+Issue:
+
+thank for directing the issue of my project
+
+
+##############################################
